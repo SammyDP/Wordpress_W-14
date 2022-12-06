@@ -1,4 +1,4 @@
--<img src="">
+-<img src="https://tech.innogames.com/wp-content/themes/tech-blog-theme/images/techblog_image.png">
 
 <h1 align="center">
 
@@ -13,7 +13,6 @@
 - [Description](#Description)
 - [Technology](#Technology)
 - [Links](#Links)
-- [Credits](#credits)
 - [Acknowledgments](#Acknowledgments)
 - [License](#license)
 
@@ -75,9 +74,7 @@
 
 # Links
 
-<p>&nbsp;</p>
-
-# Credits
+[Heroku Deployment]()
 
 <p>&nbsp;</p>
 
